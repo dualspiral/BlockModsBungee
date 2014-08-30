@@ -3,6 +3,7 @@ BungeeCord plugin for FML builds that allow you to block mods from being used on
 Drop it in your BungeeCord plugins folder, then run it. There should be two entries in the plugins/BlockMods/config.yml
 
 `isWhitelisted`: set to `true` if you want to only allow specified mods, or `false` if you want to block specified mods. Defaults to `true`.
+
 `modList`: The name of the mods to either allow or deny. This is a string list, and should be laid out as follows:
 
 ````

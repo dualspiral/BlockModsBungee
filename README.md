@@ -14,4 +14,6 @@ modList:
 
 where `mod1` and `mod2` are mods to allow or deny, (as per your `isWhitelisted` setting). Case does not matter. "FML", "Forge" and "mcp" are automatically allowed through, due to them being required as part of the FML system!
 
+You can edit this file life. Run `/blockmods reload` when done, but you must have the `blockmods.reload` permission on Bungee.
+
 Licensed under the AGPL v3.0. If you modify it and use it publically, you must share it!
